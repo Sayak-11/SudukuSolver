@@ -1,2 +1,2 @@
 # SudukuSolver
-Suduku solver made with Cpp
+Suduku solver made with HTML and JS
